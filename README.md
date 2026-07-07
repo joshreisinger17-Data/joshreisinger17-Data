@@ -1,4 +1,4 @@
-# Hi, I'm Josh Reisinger 👋
+# Hi, I'm Joshua Reisinger 👋
 
 I'm a data professional with a B.S. in Data Analytics from Western Governors University and a passion for data science, machine learning, and data engineering. I'll begin my M.S. in Data Analytics-Data Engineering in September 2026. I enjoy building projects that transform raw data into meaningful insights through analytics, predictive modeling, ETL pipelines, APIs, and dashboards.
 
